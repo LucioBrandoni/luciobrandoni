@@ -1,7 +1,5 @@
 # 👋 Hola, mi nombre es Lucio Brandoni
 
-<img src="https://wsrv.nl/?url=raw.githubusercontent.com/LucioBrandoni/luciobrandoni/main/foto-perfil.jpg&w=180&h=180&fit=cover&mask=circle" width="150" align="left" alt="Lucio Brandoni" />
-
 ### Estudiante de Programación | Armando mi base en desarrollo
 
 <img src="https://komarev.com/ghpvc/?username=LucioBrandoni&label=Visitas%20al%20perfil&color=blueviolet&style=for-the-badge" alt="visitas" />
@@ -15,8 +13,6 @@
 <a href="mailto:luciobrandoni96@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
-<br clear="left"/>
 
 Soy estudiante de la **Tecnicatura Universitaria en Programación (UTN)**, actualmente cursando el primer año.
 
